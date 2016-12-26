@@ -1,4 +1,4 @@
-## Codigo de prueba para git.
+// Codigo de prueba para git.
 
 public class Programa {
 	public static void main (string[] args) {
